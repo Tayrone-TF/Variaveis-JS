@@ -1,4 +1,4 @@
-Estudos em JavaScript
+<h1>Estudos em JavaScript</h1>
 
 ### Informações úteis sobre o assunto
 
